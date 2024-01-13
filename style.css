@@ -54,15 +54,15 @@ button:active {
     opacity: 0.9;
 }
 
-button#rock {
+button.rock {
     background-color: blueviolet;
 }
 
-button#paper {
+button.paper {
     background-color: rgb(49, 226, 43);
 }
 
-button#scissors {
+button.scissors {
     background-color: rgb(43, 116, 226);
 }
 
