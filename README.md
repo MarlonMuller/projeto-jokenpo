@@ -60,7 +60,7 @@ Este é um projeto simples de "Jokenpô" (Pedra, Papel ou Tesoura) desenvolvido 
 
 ## ✍️ Autor
 
-Desenvolvido por **Marlon Müller**  
+Desenvolvido por **Marlon Muller**  
 [GitHub](https://github.com/MarlonMuller)
 
  
