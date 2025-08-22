@@ -8,7 +8,6 @@ Este é um projeto simples de "Jokenpô" (Pedra, Papel ou Tesoura) desenvolvido 
 
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/a47203bf-a01b-4336-827c-43703cf6560d" />
 
-
 ---
 
 ## 🚀 Funcionalidades
@@ -35,9 +34,11 @@ Este é um projeto simples de "Jokenpô" (Pedra, Papel ou Tesoura) desenvolvido 
    ```bash
    git clone https://github.com/MarlonMuller/projeto-jokenpo
    ```
-
-2. Acesse a pasta do projeto e abra o arquivo `index.html` no navegador.
-
+2. Acesse a pasta do projeto:
+```bash
+cd projeto-loja-informatica
+```
+3. Abra o arquivo `index.html` no navegador.
 ---
 
 ## 📚 O que eu aprendi
@@ -60,7 +61,6 @@ Este é um projeto simples de "Jokenpô" (Pedra, Papel ou Tesoura) desenvolvido 
 
 ## ✍️ Autor
 
-Desenvolvido por **Marlon Muller**  
-[GitHub](https://github.com/MarlonMuller)
-
+### Desenvolvido por **[Marlon Muller](https://github.com/MarlonMuller)**
  
+---
